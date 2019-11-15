@@ -35,6 +35,7 @@ Are there other related events ongoing at the same time?
 What specific dates do you recommend? (May - July): 
 
 **Flight Information**
+
 | City | Flight Time (approx) | Cost (approx USD or EUR; June 4-8 according to Google Flights. Use lower and upper typical range (yellow)) |
 | --- | --- | --- |
 | San Francisco (SFO) | 10 hours | $500 - 750 |
