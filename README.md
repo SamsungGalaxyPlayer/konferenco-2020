@@ -6,3 +6,4 @@ Location submissions are due Friday 11/22 at midnight PST. They will be discusse
 
 ### [Submit a location proposal](https://github.com/SamsungGalaxyPlayer/konferenco-2020/issues/new?assignees=&labels=&template=location-submission.md&title=Location+Submission%3A+%5BCity%5D%2C+%5BCountry%5D+by+%5BSubmitter%5D)
 
+![Konferenco 2020 image](https://i.imgur.com/3am7nSl.png)
