@@ -64,4 +64,4 @@ assignees: ''
 | Madrid (MAD) |  |  |
 | Sydney (SYD) |  |  |
 
-*Note: June 4-8 selected for consistency in the approximate Konferenco time period. These numbers may be individually higher or lower than normal depending on demand. Add NA if same city.*
+*Note: June 4-8 selected for consistency in the approximate Konferenco time period. These numbers may be individually higher or lower than normal depending on demand. Add NA if same city. Use round-trip prices.*
